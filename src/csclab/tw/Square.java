@@ -12,7 +12,7 @@ public class Square extends Shape {
 	@Override
 	public double getArea() {
 		// TODO Auto-generated method stub
-		return this.size*this.size;
+		return 0;
 	}
 
 }
