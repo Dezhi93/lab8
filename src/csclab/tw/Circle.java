@@ -11,7 +11,7 @@ public class Circle extends Shape {
 	@Override
 	public double getArea() {
 		// TODO Auto-generated method stub
-		return 0;
+		return 3.14*this.radius*this.radius;
 	}
 
 }
